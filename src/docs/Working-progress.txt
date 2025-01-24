@@ -1,0 +1,29 @@
+Agenda 24-01-2025
+1. Login component generate1
+2. Service generate
+3. Model generate
+4. Module setup - continue
+5. Angular form design - not yet
+	1. Reactive form 
+			- reactive form validation
+
+1. API integration 
+2. Login component generate
+3. Service generate
+4. Angular form design 
+	1. Reactive form 
+			- reactive form validation
+	2. template driven form 
+5. login token received and login
+
+6. Folder stracture
+
+src --------- root directory
+|_>app
+	-> login
+		- .html
+		- .ts
+	-> servies 
+		- .ts
+	-> models
+	
