@@ -15,7 +15,6 @@ namespace ClaimBasedAuthentication.Persistence.Services
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddScoped<IUserRepository, UserRepository>();
-            services.AddScoped<IPersonalInfoRepository, PersonalInfoRepository>();
             return services;
         }
     }
